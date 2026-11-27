@@ -3,6 +3,8 @@
 # OpenCode for Termux - updater
 # Reinstalls the latest version using install.sh.
 #
+# Author: Sakil (https://github.com/sakil843)
+#
 set -euo pipefail
 
 REPO_SLUG="${OPENCODE_TERMUX_REPO:-sakil843/Opencode-}"

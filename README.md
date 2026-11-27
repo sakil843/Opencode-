@@ -5,6 +5,8 @@ Run [OpenCode](https://opencode.ai) — the open source AI coding agent — nati
 No proot, no chroot, no Linux container. The installer downloads the official OpenCode release and runs it through the Termux `glibc` loader.
 
 > Repository: [sakil843/Opencode-](https://github.com/sakil843/Opencode-)
+>
+> Made by **Sakil** ([@sakil843](https://github.com/sakil843))
 
 ## Quick Start
 
@@ -186,6 +188,10 @@ curl -fsSL https://raw.githubusercontent.com/sakil843/Opencode-/main/uninstall.s
 - Android 9 বা তার উপরে
 - ARM64 (`aarch64`) বা `x86_64` ডিভাইস
 - প্রায় ২৫০ MB ফাঁকা জায়গা এবং ইন্টারনেট
+
+## Author
+
+**Sakil** — [github.com/sakil843](https://github.com/sakil843)
 
 ## License
 

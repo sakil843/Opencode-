@@ -4,6 +4,8 @@
 # Downloads the official OpenCode Linux ARM64/x64 release and runs it
 # on Termux through the glibc loader (no proot, no chroot).
 #
+# Author: Sakil (https://github.com/sakil843)
+#
 # Usage:
 #   bash install.sh                 # install latest
 #   bash install.sh --version 1.19.6
@@ -254,4 +256,5 @@ ok "OpenCode ${INSTALLED_VERSION} installed successfully!"
 printf '\n'
 printf '  Run it with:  %sopencode%s\n' "$C_INFO" "$C_RESET"
 printf '  Add API keys: %sopencode auth login%s\n' "$C_INFO" "$C_RESET"
+printf '  Installer by: Sakil (github.com/sakil843)\n'
 printf '\n'

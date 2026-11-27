@@ -2,6 +2,8 @@
 #
 # OpenCode for Termux - uninstaller
 #
+# Author: Sakil (https://github.com/sakil843)
+#
 #   bash uninstall.sh           # remove the launcher and binary
 #   bash uninstall.sh --purge   # also remove config, auth and session data
 #
